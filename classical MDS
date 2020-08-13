@@ -1,5 +1,5 @@
 % MATLAB
-% classical MDS positionig error
+% classical MDS for positionig
 clear;clc;close all;
 
 N=10;             % node
@@ -52,4 +52,3 @@ xlabel('x(m)');ylabel('y(m)');
 axis([-60,60,-60,60]);
 set(gca,'XTick',-60:20:60);
 set(gca,'YTick',-60:20:60);
-
