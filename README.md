@@ -11,7 +11,7 @@ and result.png is the result of it.
 __If you find this project useful, we would be grateful if you cite the following paper：__
 
 @article{yang2021multi,  
-  title={Multi-vehicle cooperative positioning based on edge-computed multidimensional scaling},  
+>>title={Multi-vehicle cooperative positioning based on edge-computed multidimensional scaling},  
   author={Yang, Bin and Chen, Rui and Li, Bin and Li, Changle},  
   journal={China Communications},  
   volume={18},  
