@@ -1,8 +1,7 @@
 # vehicle-positioning
 
 vehicle_code file is the code for the paper
-"Multi-Vehicle Cooperative Positioning Based on Edge-Computed Multidimensional Scaling".  
-https://ieeexplore.ieee.org/document/9459564
+"Multi-Vehicle Cooperative Positioning Based on Edge-Computed Multidimensional Scaling": https://ieeexplore.ieee.org/document/9459564
 
 Some interesting video about this project can be find under  
 Demo of relative positioning for cars: https://www.bilibili.com/video/BV1yN411R7Xg/  
