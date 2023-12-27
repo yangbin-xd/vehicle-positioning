@@ -15,7 +15,7 @@ __If you find this project useful, we would be grateful if you cite the followin
 @article{yang2021multi,  
   title={Multi-vehicle cooperative positioning based on edge-computed multidimensional scaling},  
   author={Yang, Bin and Chen, Rui and Li, Bin and Li, Changle},  
-  journal={China Communications},  
+  journal={China Commun.},  
   volume={18},  
   number={6},  
   pages={53--63},  
