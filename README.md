@@ -4,6 +4,10 @@ vehicle_code file is the code for the paper
 "Multi-Vehicle Cooperative Positioning Based on Edge-Computed Multidimensional Scaling".  
 https://ieeexplore.ieee.org/document/9459564
 
+Some interesting video about this project can be find under 
+Demo of relative positioning for cars: https://www.bilibili.com/video/BV1yN411R7Xg/
+Demo of absolute positioning for cars: https://www.bilibili.com/video/BV1ef4y1z7st/
+
 Any questions please contact email: binyang_2020@163.com.
 
 classical MDS.m is a simple example for readers to understand MDS
